@@ -1,0 +1,23 @@
+{
+  "name": "dhanpal.1998",
+  "version": "1.0.0",
+  "description": "\"This is Hello World!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonidhanpal1998/Assignment.git"
+  },
+  "keywords": [
+    "sonidhanpal",
+    "Assignment"
+  ],
+  "author": "Dhanpal G Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonidhanpal1998/Assignment/issues"
+  },
+  "homepage": "https://github.com/sonidhanpal1998/Assignment#readme"
+}
